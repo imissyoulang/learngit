@@ -4,6 +4,7 @@
 	 * Git is free software distributed under the GPL.
 	 * Git has a mutable index called stage.
 	 * Git tracks changes of files.
+	 * git is a new software.
 	 */
 	
 	phpinfo();
